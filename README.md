@@ -1,3 +1,15 @@
+
+<div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg" width="1200" height="200"/>
+</div>
+
+
+<p align = "center">
+  <h2 align = "center">
+      Ram Ram World!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="4%"/> 
+  </h2>
+
+
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 <h3 align="center">Aspiring Software Development Engineer | Frontend & AI Enthusiast | Passionate about Web Development & Machine Learning | India</h3>
 
