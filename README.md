@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg" width="1200" height="200"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8nCWVu1XQzCwAbgtEJ9TGqlZ8TmyfsSS7CA&s" width="1200" height="200"/>
 </div>
 
 
