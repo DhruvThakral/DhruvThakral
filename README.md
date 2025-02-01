@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8nCWVu1XQzCwAbgtEJ9TGqlZ8TmyfsSS7CA&s" width="1200" height="200"/>
+  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" width="1200" height="200"/>
 </div>
 
 
